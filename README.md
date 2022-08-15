@@ -1,1 +1,1 @@
-# Trex-color
+# Pro-C18-TRex-Color
